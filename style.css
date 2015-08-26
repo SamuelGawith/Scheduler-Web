@@ -1,0 +1,197 @@
+a {
+	color: #576454;
+	text-decoration: underline;
+}
+
+body {
+	font-size: 12pt;
+	line-height: 2em;
+	font-family: Trebuchet MS, sans-serif;
+	background: #f1f0f0;
+}
+
+h1,h2,h3 {
+	font-weight: bold;
+	margin-bottom: 1.25em;
+	font-family: Arvo, serif;
+}
+
+
+img.right-pic {
+	float: left;
+	margin: 8px 20px 20px 0;
+}
+
+
+#banner {
+	position: relative;
+	padding: 32px;
+	height: 300px;
+	width: 1116px;
+	margin: 0;
+	background: #ffffff;
+}
+
+#content {
+	width: 1100px;
+	padding: 28px;
+	background: #ffffff;
+}
+
+#right-text {
+	margin: 0 0 22px 0;
+}
+
+
+#header {
+	position: relative;
+	padding: 28px;
+	height: 126px;
+	width: 1124px;
+	margin: 0 0 24px 0;
+}
+
+#logo {
+	text-align: center;
+	margin: -14px auto;
+	line-height: 98px;
+}
+
+#logo a {
+	text-decoration: none;
+	color: #000000;
+}
+
+#logo h1 {
+	font-size: 3em;
+	font-family: Arvo, serif;
+}
+
+#main {
+	width: 1180px;
+	color: #666666;
+}
+
+
+#navigation {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 1180px;
+	height: 56px;
+	line-height: 56px;
+	font-size: 1.25em;
+	font-family: Arvo, serif;
+}
+
+
+#navigation a {
+	text-decoration: none;
+	text-transform: lowercase;
+	color: #1b1b19;
+}
+
+#navigation ul {
+	margin: 0 auto;
+	width: 1062px;
+	text-align: center;
+}
+
+#navigation ul li {
+	display: inline;
+	text-align: center;
+	padding: 0.5em 1em 0.5em 1em;
+}
+
+#navigation ul li a {
+	padding: 0.5em 1em 0.5em 1em;
+}
+
+#navigation ul li.active a {
+	background: #576454;
+	color: #ffffff;
+}
+
+#outer {
+	position: relative;
+	width: 1180px;
+	margin: 0 auto 0 auto;
+}
+
+#bar1 {
+	width: 224px;
+	float: left;
+	padding: 28px;
+	color: #5c5a54;
+}
+
+#bar1 h3 {
+	color: #000000;
+}
+
+#bar1 ul {
+	list-style: none;
+}
+
+#bar1 ul li {
+	padding: 8px 0 8px 0;
+	border-top: dotted 2px #c3bfb3;
+}
+
+#bar1 ul li.first {
+	padding-top: 0;
+	border-top: 0;
+}
+
+#bar2 {
+	width: 224px;
+	margin: 0 28px 0 304px;
+	padding: 28px;
+	color: #5c5a54;
+}
+
+#bar2 h3 {
+	color: #000000;
+}
+
+#bar2 ul {
+	list-style: none;
+}
+
+#bar2 ul li {
+	padding: 8px 0 8px 0;
+	border-top: dotted 2px #c3bfb3;
+}
+
+#bar2 ul li.first {
+	padding-top: 0;
+	border-top: 0;
+}
+
+.product{
+    width:137px;
+    height:174px;
+    float:left;
+    margin:30px 0 0 70px;
+}
+
+
+#nav_menu li {
+	display: inline;
+	padding: 0.5em 1em 0.5em 1em;
+	font-size: 1.25em;
+	text-decoration: none;
+	text-transform: lowercase;
+	color: #1b1b19;
+}
+
+#mycart{
+    width:100%;
+    border-radius: 3px;
+    padding:3px;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+}
